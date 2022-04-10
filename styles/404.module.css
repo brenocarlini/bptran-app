@@ -1,0 +1,25 @@
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 60vh;
+}
+
+.content .errorNumber {
+    border-right: 1px solid #ccc;
+    padding-right: 15px;
+} 
+
+.content .errorNumber h2 {
+    padding:0;
+    margin: 0;
+}
+
+.content .errorText {
+    padding-left: 15px;
+}
+
+.content .errorText p {
+    padding:0;
+    margin: 0;
+}
